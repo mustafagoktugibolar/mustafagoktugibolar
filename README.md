@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mustafagoktugibolar
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on health care app
-- 📫 How to reach me mustafagoktugibolar@gmail.com --- https://www.instagram.com/m.goktugibolar/
+- 📫 How to reach me mustafagoktugibolar@gmail.com 
 
 
 <!---
