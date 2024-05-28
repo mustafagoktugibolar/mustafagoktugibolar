@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustafagoktugibolar
-- 🌱 I’m currently working with .NET c#
+- 🌱 I’m currently working with .NET
 - 📫 How to reach me goktugibolar@icloud.com
 
 
