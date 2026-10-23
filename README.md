@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mustafagoktugibolar
 - 🌱 I’m currently working with .NET
-- 📫 How to reach me goktugibolar@icloud.com
+- 📫 How to reach me goktug@ibolar.com
 
 
 <!---
